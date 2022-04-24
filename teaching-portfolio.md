@@ -7,3 +7,5 @@
 [Peer Graded Assignement: Repeated loops](https://youtu.be/XlAqgLeVw_I) <-- Date: April 16, 2022
 
 [Peer Graded Assignement: Monkey and Banana](https://youtu.be/2ioGD0THrXU) <-- Date: April 17, 2022
+
+[Peer Graded Assignement: Shapes with variables](https://youtu.be/uDMLJRsaC9E) <-- Date: April 24, 2022
