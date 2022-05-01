@@ -9,3 +9,6 @@
 [Peer Graded Assignement: Monkey and Banana](https://youtu.be/2ioGD0THrXU) <-- Date: April 17, 2022
 
 [Peer Graded Assignement: Shapes with variables](https://youtu.be/uDMLJRsaC9E) <-- Date: April 24, 2022
+
+[Peer Graded Assignement: Soccer Ball](https://youtu.be/BS95kn0nHo0) <-- Date: April 30, 2022
+
