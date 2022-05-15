@@ -14,3 +14,5 @@
 
 [Peer Graded Assignement: Catch the Ball](https://youtu.be/tyvQYCdwSs8) <-- Date: May 7, 2022
 
+[Peer Graded Assignement: Swimming Penguin](https://youtu.be/N9q0WevH2LI) <-- Date: May 15, 2022
+
