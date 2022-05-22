@@ -16,3 +16,5 @@
 
 [Peer Graded Assignement: Swimming Penguin](https://youtu.be/N9q0WevH2LI) <-- Date: May 15, 2022
 
+[Peer Graded Assignement: Treasure Hunt](https://youtu.be/FeOGQh5jkLE) <-- Date: May 21, 2022
+
