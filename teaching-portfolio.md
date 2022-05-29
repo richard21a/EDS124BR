@@ -18,3 +18,5 @@
 
 [Peer Graded Assignement: Treasure Hunt](https://youtu.be/FeOGQh5jkLE) <-- Date: May 21, 2022
 
+[Peer Graded Assignement: Drawing](https://youtu.be/7Alm8EnvdpM) <-- Date: May 28, 2022
+
